@@ -18,6 +18,8 @@ Computer Engineering student, currently diving into the world of web development
 <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 <img width="50" height="50" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
+<img width="50" height="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/50/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
 </div>
 <br>
 <br>
