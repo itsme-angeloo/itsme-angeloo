@@ -1,4 +1,4 @@
-👋 I'm Geloo, an Implementation Engineer
+#👋 I'm Geloo, an Implementation Engineer
 
 Driven by curiosity, fueled by code.<br>
 Computer Engineering graduate, currently working as an Implementation Engineer, diving deep into web development and software solutions. My goal is to become a highly skilled and impactful software engineer, building innovative solutions that make a real difference.<br><br>
