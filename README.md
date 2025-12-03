@@ -1,27 +1,17 @@
-# 👋I'm Geloo, your friendly neighborhood Computer Engineering student.
-Driven by curiosity, fueled by code<br>  
-Computer Engineering student, currently diving into the world of web development. My long-term goal? To become a highly skilled and impactful software engineer, building innovative solutions and making a real difference.<br><br>
-👀I love making websites look good and work well. I spend a lot of time creating designs and turning them into interactive web pages.
+👋 I'm Geloo, an Implementation Engineer
 
-🌱I'm planning to learn how to build entire websites, from the parts you see to the parts that make them work behind the scenes, so I can create complete web projects.
+Driven by curiosity, fueled by code.<br>
+Computer Engineering graduate, currently working as an Implementation Engineer, diving deep into web development and software solutions. My goal is to become a highly skilled and impactful software engineer, building innovative solutions that make a real difference.<br><br>
 
-💖I'm looking for a group of people who love building websites, so we can learn from each other and work on projects together.
+👀 I love creating websites and applications that are both visually appealing and functional. I enjoy designing interfaces and turning them into interactive, user-friendly experiences.
 
-🎨I'm really interested in making websites easy and enjoyable to use, by focusing on how they look and how people interact with them.
+🌱 I'm continuously learning to build complete web projects — from frontend interfaces to backend functionality — so I can deliver fully functional applications.
 
-<h3>Language and Tools</h3>
-<div style="display: flex; align-items: center; ">
-<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="50" height="50" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/>
-  
-<img width="50" height="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/50/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
-</div>
-<br>
-<br>
-When I'm not coding, you'll find me gaming online or out for a motorcycle ride.
+💖 I'm looking to collaborate with people passionate about web development, so we can learn from each other and work on meaningful projects together.
+
+🎨 My focus is on usability and aesthetics — making software intuitive, enjoyable, and visually appealing.
+
+Languages & Tools
+<div style="display: flex; align-items: center; gap: 10px;"> <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML"/> <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS"/> <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/> <img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS"/> <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="Git"/> <img width="50" height="50" src="https://img.icons8.com/officel/80/react.png" alt="React"/> <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/> <img width="50" height="50" src="https://img.icons8.com/nolan/64/php--v2.png" alt="PHP"/> <img width="50" height="50" src="https://img.icons8.com/external-those-icons-flat-those-icons/50/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="MySQL"/> </div>
+
+When I’m not coding or implementing solutions, you’ll find me gaming online or enjoying a motorcycle ride.
