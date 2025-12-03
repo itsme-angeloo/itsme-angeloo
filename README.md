@@ -1,1 +1,1 @@
-# 👋 I'm Geloo, an Computer Engineering graduate
+# 👋 I'm Geloo, a Computer Engineering graduate
