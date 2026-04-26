@@ -21,7 +21,7 @@ gelo@github:~$ whoami
 
 name        : Gelo
 degree      : BS Computer Engineering
-role        : Tech Staff
+role        : Tech Support
 focus       : Development, DevOps, Automation, AI
 status      : still learning, still building
 mindset     : build → break → learn → automate
