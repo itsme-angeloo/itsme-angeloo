@@ -55,7 +55,12 @@ not like opening 10 tabs and running the same commands every day.
 </div>
 <br>
 
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=itsme-angeloo&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-angeloo&layout=compact&theme=tokyonight&hide_border=true" /> </div><br><br>
+<p align="center">
+  <img height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsme-angeloo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=itsme-angeloo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <div align="center">
 System Design • Automation • AI Tools • Dev Productivity • DevOps <br><br>
